@@ -26,10 +26,10 @@ Totalmente Responsivo: Adaptado perfeitamente para desktops, tablets e smartphon
 
 O projeto está dividido de forma modular em três arquivos principais:
 
-📦 portfólio-nicolas/
- ┣ 📜 index.html    # Estrutura HTML da página
- ┣ 🎨 style.css     # Estilos, variáveis, grid e efeitos visuais
- ┗ ⚡ script.js     # Lógica de interatividade, animações e efeitos 3D
+ portfólio-nicolas/
+ ┣  index.html    # Estrutura HTML da página
+ ┣  style.css     # Estilos, variáveis, grid e efeitos visuais
+ ┗  script.js     # Lógica de interatividade, animações e efeitos 3D
 
 -- Links de Contato
 
